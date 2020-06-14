@@ -1,6 +1,4 @@
-VR
-
-書くプログラムで参考にしたサイト
+各プログラムで参考にしたサイト
 
 VRTest..cs
 https://qiita.com/sakano/items/d87a9b11c23a9bbe166f
@@ -23,7 +21,9 @@ https://gametukurikata.com/camera/changecamera
 
 
 InteractableExample.cs
+SteamVRのプログラムの一つを変更
 
+掴んだオブジェクトを移動できるようにした
 
 FingerController.cs
 
