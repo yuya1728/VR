@@ -1,9 +1,10 @@
 # 各プログラムで参考にしたサイトと工夫したところ
 
 HMDを装着したままVR空間内のキャラクターをジェスチャやポーズで操作したい
+
 表情・走る・ジャンプ・BGMを流すなど
 
-# VRTest.cs
+## VRTest.cs
 コントローラーやトラッカーの位置やボタンによって音を鳴らす・カメラの切り替え・指の
 曲がり方について
 
@@ -11,8 +12,7 @@ https://qiita.com/sakano/items/d87a9b11c23a9bbe166f
 
 https://qiita.com/10colo/items/58a8fdb154cd921d4c9c
 
-
-# Player.cs
+## Player.cs
 
 ダッシュとジャンプのアニメーションについて
 
