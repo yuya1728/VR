@@ -1,4 +1,4 @@
-# 各プログラムで参考にしたサイトと工夫したところ
+# 各プログラムで参考にしたサイトと説明
 
 HMDを装着したままVR空間内のキャラクターをジェスチャやポーズで操作したい
 
@@ -20,9 +20,13 @@ https://unity-shoshinsha.biz/archives/189
 
 ## ControllerInputManager.cs
 
+キャラクターの表情の変化について
+
 https://qiita.com/sh_akira/items/81fca69d6f34a42d261c
 
 ## ChangeCamera.cs
+
+VRTest.cs から変数を受け取り, カメラの切り替えする
 
 https://gametukurikata.com/camera/changecamera
 
@@ -33,6 +37,8 @@ SteamVRのプログラムの一つを変更
 掴んだオブジェクトを移動できるようにした
 
 ## FingerController.cs
+
+VRM モデルの3D キャラクターの手の形を制御
 
 https://github.com/TORISOUP/AR_VR_Viewer
 
