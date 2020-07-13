@@ -17,7 +17,7 @@ HMDを装着したままVR空間内のキャラクターをジェスチャやポ
 
 走る・ジャンプの操作があまりうまくいかなかった
 
-作った動画→VR.MP4
+作った動画→VR.MP4, https://drive.google.com/drive/folders/15kJe-GRlE_i4id5WPmw89swI5jxeyc4t?usp=sharing
 
 ## VRTest.cs
 コントローラーやトラッカーの位置やボタンによって音を鳴らす・カメラの切り替え・指の
